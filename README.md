@@ -1,1 +1,1 @@
-# test
+# Using LassoCV and a dataset of players from FIFA 21, I determined the 10 most relevant attributes to each position in FIFA 21. There are also a variety of visualizations that accompany the report which addresses the results of the experiment.
